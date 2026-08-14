@@ -1299,6 +1299,12 @@ body {
     font-size: 0.8rem !important;
 }
 
+.footer-festival {
+    color: var(--hack-yellow) !important;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+}
+
 .footer-hashtag {
     color: var(--film-purple) !important;
     font-weight: 700;

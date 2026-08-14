@@ -187,6 +187,7 @@
             'ft.l6': 'Terms',
             'ft.info1': 'Organizer: Sapporo Sugoi AI-kai',
             'ft.info2': 'Venue: Deep Tech CORE SAPPORO',
+            'ft.festival': 'This event is held as part of Sapporo Sugoi AI Matsuri 2026 Summer.',
             'ft.copy': '&copy; 2026 Sapporo Sugoi AI-kai All rights reserved.',
             'ft.disclaimer': '* This event is run by individual volunteers and does not represent any specific company or commercial organization.'
         },
@@ -366,6 +367,7 @@
             'ft.l6': '参加条款',
             'ft.info1': '主办：札幌Sugoi AI会',
             'ft.info2': '会场：Deep Tech CORE SAPPORO',
+            'ft.festival': '本活动作为“札幌Sugoi AI祭 2026夏”的一部分举办。',
             'ft.copy': '&copy; 2026 札幌Sugoi AI会 版权所有',
             'ft.disclaimer': '※本活动为个人志愿者活动，不代表任何特定企业或营利团体。'
         }
