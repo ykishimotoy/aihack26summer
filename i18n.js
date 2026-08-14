@@ -50,6 +50,8 @@
             'sec.partners': 'Partners &amp; Supporters',
             'partners.desc': 'These companies, organizations, and services support this hackathon.<br>We deeply appreciate their generous cooperation.',
             'partners.dtc': 'DTC Inc.',
+            'partners.sapporoLogo': 'City of Sapporo',
+            'partners.sapporo': 'Supported by the City of Sapporo',
             // Flow
             'sec.flow': 'Event Flow',
             'flow.desc': 'Everything happens in one day — from check-in to awards, here is how it flows.',
@@ -227,6 +229,8 @@
             'sec.partners': '合作企业・团体・服务',
             'partners.desc': '以下是支持本次黑客松的企业、团体与服务。<br>由衷感谢各位的热情协助。',
             'partners.dtc': 'DTC株式会社',
+            'partners.sapporoLogo': '札幌市',
+            'partners.sapporo': '后援：札幌市',
             // Flow
             'sec.flow': '体验流程',
             'flow.desc': '当天完结。从签到到颁奖，按以下流程进行。',

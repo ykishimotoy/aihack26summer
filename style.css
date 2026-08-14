@@ -2090,6 +2090,13 @@ body {
     padding: var(--spacing-sm);
 }
 
+.partner-logo-text {
+    font-size: 2.4rem;
+    font-weight: 900;
+    color: var(--text-primary);
+    letter-spacing: 0.12em;
+}
+
 .partner-name {
     padding: var(--spacing-sm);
     font-size: 0.95rem;
