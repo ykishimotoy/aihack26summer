@@ -49,6 +49,7 @@
             // Partners
             'sec.partners': 'Partners &amp; Supporters',
             'partners.desc': 'These companies, organizations, and services support this hackathon.<br>We deeply appreciate their generous cooperation.',
+            'partners.hp': 'HP Japan Inc.',
             'partners.dtc': 'DTC Inc.',
             'partners.sapporoLogo': 'City of Sapporo',
             'partners.sapporo': 'Supported by the City of Sapporo',
@@ -229,6 +230,7 @@
             // Partners
             'sec.partners': '合作企业・团体・服务',
             'partners.desc': '以下是支持本次黑客松的企业、团体与服务。<br>由衷感谢各位的热情协助。',
+            'partners.hp': '日本惠普株式会社',
             'partners.dtc': 'DTC株式会社',
             'partners.sapporoLogo': '札幌市',
             'partners.sapporo': '后援：札幌市',
