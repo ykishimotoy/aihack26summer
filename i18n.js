@@ -168,6 +168,9 @@
             'judge.2.name': 'Ryoma Kudo (Bonjiko)',
             'judge.2.title': 'Deputy Head of Sapporo Sugoi AI-kai',
             'judge.2.comment': 'From astonishing ideas to experiences that touch people\'s hearts — I look forward to meeting all kinds of products! Let\'s have fun together with AI-driven development, a whole new way of building!',
+            'judge.3.name': 'Motoki Nakamura',
+            'judge.3.title': 'Sapporo Sugoi AI-kai Staff / Harness Enthusiast<br>The Guy Hyping Up Hokkaido with AI',
+            'judge.3.comment': 'I still remember being amazed the first time I studied programming, when just one button worked. Now we live in an era where you can build an app in a few hours just by telling AI your idea. In such a wonderful era, not building is simply not an option. I can\'t wait to see your ideas take shape!',
             // Entry CTA
             'cta.title': 'Build a world<br>in 2 hours.',
             'cta.desc': 'Engineer, designer, or total beginner —<br>anyone who wants to build something with AI and technology can take on the challenge.',
@@ -350,6 +353,9 @@
             'judge.2.name': '工藤 僚马（Bonjiko）',
             'judge.2.title': '札幌Sugoi AI会副代表',
             'judge.2.comment': '从令人惊叹的创意到贴近人心的体验，期待与各种各样的产品相遇！让我们用AI驱动开发这一全新手法，一起快乐地创造吧！',
+            'judge.3.name': '中村 元揮',
+            'judge.3.title': '札幌Sugoi AI会 运营 / 与Harness打交道的人<br>用AI振兴北海道的人',
+            'judge.3.comment': '我还记得第一次学编程时，仅仅让一个按钮动起来就让我感动不已。而现在，只要把想法告诉AI，几个小时就能做出一个应用。在这么美好的时代，没有理由不去开发。期待你的创意变成现实！',
             // Entry CTA
             'cta.title': '用2小时，<br>创造一个世界。',
             'cta.desc': '无论是工程师、设计师，还是初学者。<br>只要想用AI和技术创造点什么，任何人都可以挑战。',
