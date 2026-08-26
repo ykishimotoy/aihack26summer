@@ -47,8 +47,8 @@
             'about.f2': 'On-the-day intro session for first-timers and beginners',
             'about.f3': 'Experts may bring anything they like',
             // Partners
-            'sec.partners': 'Partners &amp; Supporters',
-            'partners.desc': 'These companies, organizations, and services support this hackathon.<br>We deeply appreciate their generous cooperation.',
+            'sec.partners': 'Sponsors',
+            'partners.desc': 'These sponsor companies, organizations, and services support this hackathon.<br>We deeply appreciate their generous support.',
             'partners.hp': 'HP Japan Inc.',
             'partners.eques': 'EQUES Inc.',
             'partners.dtc': 'DTC Inc.',
@@ -232,8 +232,8 @@
             'about.f2': '当天提供面向零经验者・新手的使用讲解',
             'about.f3': '高手可自带任何东西',
             // Partners
-            'sec.partners': '合作企业・团体・服务',
-            'partners.desc': '以下是支持本次黑客松的企业、团体与服务。<br>由衷感谢各位的热情协助。',
+            'sec.partners': '赞助商',
+            'partners.desc': '以下是支持本次黑客松的赞助企业、团体与服务。<br>由衷感谢各位的鼎力支持。',
             'partners.hp': '日本惠普株式会社',
             'partners.eques': 'EQUES株式会社',
             'partners.dtc': 'DTC株式会社',
