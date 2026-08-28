@@ -2135,6 +2135,25 @@ body {
     text-align: center;
 }
 
+.partner-doc-btn {
+    display: block;
+    margin: 0 var(--spacing-sm) var(--spacing-sm);
+    padding: 0.5em 1em;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-align: center;
+    color: var(--film-yellow, #FFD600);
+    border: 1px solid var(--film-yellow, #FFD600);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.partner-doc-btn:hover {
+    background: var(--film-yellow, #FFD600);
+    color: var(--dark-surface, #111);
+}
+
 @media (max-width: 768px) {
     .partners-grid {
         grid-template-columns: repeat(2, 1fr);
