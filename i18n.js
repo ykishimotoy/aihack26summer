@@ -22,6 +22,7 @@
             'hero.cta.entry': 'Enter Now',
             'hero.cta.overview': 'View Event Details',
             // Overview
+            'sec.winners': 'Winners',
             'sec.overview': 'Event Overview',
             'ov.subtitle': 'AI-driven development, live in Sapporo.',
             'ov.p1': 'Compress thinking, building, and presenting into 2 hours. What do you choose, what do you cut, and what do you bring to life within the time limit? This is a competition of decision-making.',
@@ -207,6 +208,7 @@
             'hero.cta.entry': '立即报名',
             'hero.cta.overview': '查看活动概要',
             // Overview
+            'sec.winners': '获奖',
             'sec.overview': '活动概要',
             'ov.subtitle': '在札幌现场，体验AI驱动开发。',
             'ov.p1': '将思考、实现、发表压缩进2小时。在有限的时间里选择什么、舍弃什么、实现什么——这里比拼的正是这种决策力。',
